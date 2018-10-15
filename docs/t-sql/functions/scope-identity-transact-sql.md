@@ -172,5 +172,6 @@ GO
   
 ## See Also  
  [@@IDENTITY &#40;Transact-SQL&#41;](../../t-sql/functions/identity-transact-sql.md)  
+ [OUTPUT Clause] http://technet.microsoft.com/en-us/library/ms177564.aspx
   
   
